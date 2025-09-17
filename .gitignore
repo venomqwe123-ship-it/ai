@@ -1,0 +1,13 @@
+# General
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.log
+*.sqlite3
+*.db
+dist/
+build/
+# Docker
+*.pid
